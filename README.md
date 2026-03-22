@@ -14,7 +14,7 @@ Right now, I’m especially interested in:
 - Cognitive science + perception  
 - Virtual & augmented reality (XR)  
 - Behavioral data + pattern analysis  
-- AI in mental health + clinical applications  
+- AI in psychology and human behavior
 
 I love working at the intersection of **technology and human experience**!
 
