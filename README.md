@@ -1,10 +1,28 @@
-## Hi there 👋
+!# Hi, I’m Aisha
 
-<!--
-**aishabigham/aishabigham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science + Psychology @ Northeastern University  
+🧠 Interested in cognitive science, immersive media, and human behavior  
+🥽 VR researcher exploring how people interact with virtual environments  
 
-Here are some ideas to get you started:
+---
+
+##  About Me
+
+I’m fascinated by how people *perceive, feel, and behave* in digital environments.
+
+Right now, I’m especially interested in:
+- Cognitive science + perception  
+- Virtual & augmented reality (XR)  
+- Behavioral data + pattern analysis  
+- AI in mental health + clinical applications  
+
+I love working at the intersection of **technology and human experience**!
 
 
-- ⚡ Fun fact: I am interested in Virtual Reality and used to work in a VR arcade!
--->
+## What I’m Working Toward
+
+I want to build technology that is:
+- human-centered  
+- data-informed  
+- impactful in real-world settings 
+
