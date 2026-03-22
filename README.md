@@ -1,4 +1,4 @@
-!# Hi, I’m Aisha
+# Hi, I’m Aisha!
 
 🎓 Data Science + Psychology @ Northeastern University  
 🧠 Interested in cognitive science, immersive media, and human behavior  
