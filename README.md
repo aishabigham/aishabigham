@@ -24,5 +24,5 @@ I love working at the intersection of **technology and human experience**!
 I want to build technology that is:
 - human-centered  
 - data-informed  
-- impactful in real-world settings 
+- impactful in real-world settings! :)
 
